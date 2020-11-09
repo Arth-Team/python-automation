@@ -9,7 +9,7 @@ I automated some commands and docker with help of python
   2 run command: 
   ```bash
     setenforce 0
-    python iice-python.py
+    python arth-python.py
   ```
   
   
