@@ -2,7 +2,7 @@
 
 
 # Python-Automation
-I automated some commands and docker with help of python
+I automated some linux/windows commands and aws,hadoop,docker with help of python
 
 ## Running this script
   1. run command: 
